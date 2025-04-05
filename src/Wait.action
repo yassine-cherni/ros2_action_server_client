@@ -1,0 +1,13 @@
+# Goal
+int32 goal_id
+int32 priority
+---
+# Result
+int32 goal_id
+bool success
+string message
+---
+# Feedback
+string status
+float32 progress  
+int32 seconds_remaining
